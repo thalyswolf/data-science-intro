@@ -7,7 +7,7 @@ So, I developed some data science algorithms while I did study Data Science in a
 3. Algorithm for to compare Human genome and bactery genom 👨🏻‍💼 🦠
 4. A little bioinformatics 🚀
 
-### Brasilian population growth
+### Brazilian population growth
 Analysis is done through public data provided by DataSUS and the algorithm to analyze data of brazilian population is done from 1980 until 2016.
 ![https://i.imgur.com/zPG9sZr.png](https://i.imgur.com/zPG9sZr.png)
 
