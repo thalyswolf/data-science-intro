@@ -1,5 +1,6 @@
 ### Hi guys 😃
-So, I developed some data science algorithms while I did study Data Science in a Udemy's Course.
+So, I developed some data science algorithms while I did study Data Science in Diego's course at Udemy.
+(https://www.udemy.com/share/101sXO3@zDHviAe1SpH4ZhIUR0Q1v9SjniQdLAzU6YKaT9DRMnGCeTA1CYuCJkVA_NFt4RS2/)
 
 ### What will you find here ? 😯
 1. This repository have some examples of how to do charts in Python. 📊
