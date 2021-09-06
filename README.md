@@ -5,7 +5,7 @@ So, I developed some data science algorithms while I did study Data Science in D
 ### What will you find here ? 😯
 1. This repository have some examples of how to do charts in Python. 📊
 2. Algorithms for to analyze the Brazilian population growth. 📈
-3. Algorithm for to compare Human genome and bactery genom 👨🏻‍💼 🦠
+3. Algorithm for to compare Human genome and bacterial genome 👨🏻‍💼 🦠
 4. A little bioinformatics 🚀
 
 ### Brazilian population growth
